@@ -1,6 +1,5 @@
 ---
 title: "About"
-draft: true
 ---
 
 # About Me

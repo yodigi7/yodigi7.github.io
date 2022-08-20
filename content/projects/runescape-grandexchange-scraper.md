@@ -1,6 +1,5 @@
 ---
 title: "Runescape Grandexchange Scraper"
-draft: true
 ---
 
 # Summary

@@ -1,6 +1,5 @@
 ---
 title: "Quiplash Clone"
-draft: true
 ---
 
 This project was inspired by the game Quiplash made by Jackbox Games.
