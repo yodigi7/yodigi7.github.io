@@ -4,6 +4,21 @@
       {{ .Content }}
     </div>
   {{ end }}
+  <h1 class="customHeader">
+    Hi, I'm <span class="anthony">Anthony Buchholz</span><br>
+    I'm an AI consultant with Fullstack experience.
+  </h1>
+  <ul class="referralUl">
+    <li class="referralLi">
+      <a href="https://github.com/yodigi7"><img id="github" alt="github" height="40px" src="{{(resources.Get `github-logo.png`).RelPermalink}}"></a>
+    </li>
+    <li class="referralLi">
+      <a href="https://www.linkedin.com/in/anthony-buchholz-30719a127/"><img id="linkedin" g="" alt="linkedin-logo.png" height="40px" src="{{(resources.Get `linkedin-logo.png`).RelPermalink}}"></a>
+    </li>
+  </ul>
+  <h1 class="project">
+    My Projects
+  </h1>
   <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
     {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
@@ -20,9 +35,9 @@
           <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
         </h1>
         <div class="post-meta">
-          {{if .Date}}
+          {{ with .Date }}
             <span class="post-date">
-              {{ .Date.Format "2006-01-02" }}
+              {{ .Format "2006-01-02" }}
             </span>
           {{end}}
           {{ with .Params.Author }}
