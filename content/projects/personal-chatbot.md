@@ -11,6 +11,4 @@ We could then query the database with the query to fetch potentially relevant do
 For this project I decided to learn SvelteKit as it is enables SSR and quick and easy backend integration with the frontend also allowing for SSR pages for SEO optimization.
 After building the basic frontend for this app I integrated it with the Llama2 LLM and fed it my resume to answer any basic questions a recruiter could have.
 
-Feel free to check out the end result:
-
-https://portfolio-chatbot-gi2e6smr4a-uc.a.run.app
+Feel free to check out the end result [here](https://portfolio-chatbot-gi2e6smr4a-uc.a.run.app).
