@@ -12,30 +12,30 @@ ___
 
 # Key Benefits of gRPC
 
-###### Efficiency
+###### 1. Efficiency
 
 gRPC uses Protocol Buffers (protobufs) as its interface definition language (IDL), resulting in compact and efficient data serialization.
 This minimizes both bandwidth usage and processing time, leading to faster communication.
 
-###### Language Agnostic
+###### 2. Language Agnostic
 
 gRPC supports multiple programming languages, allowing developers to seamlessly integrate services written in different languages.
 This flexibility promotes interoperability and simplifies the development of heterogeneous systems.
 
-###### Bidirectional Streaming
+###### 3. Bidirectional Streaming
 
 gRPC supports bidirectional streaming, enabling real-time communication between clients and servers.
 This feature is valuable for applications that require continuous data exchange, such as chat applications and online gaming.
 
-###### Automatic Code Generation
+###### 4. Automatic Code Generation
 
 gRPC generates client and server code from the protobuf service definition, reducing boilerplate code and minimizing the risk of errors.
 
-###### Strong Typing
+###### 5. Strong Typing
 
 Protobufs provide a strong typing system, ensuring data consistency and reducing the chances of runtime errors.
 
-###### Security
+###### 6. Security
 
 gRPC includes built-in support for authentication, encryption, and authorization, making it a secure choice for communication over public networks.
 
