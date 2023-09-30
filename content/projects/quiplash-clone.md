@@ -11,6 +11,8 @@ This project was built to handle multiple concurrent games with the option to us
 
 https://github.com/yodigi7/quiplash
 
+Here is a quick write-up on websockets and how I would redesign the connection part of this project today: [{{< ref "/technologies/websockets" >}}]({{< ref "/technologies/websockets" >}}/#my-use-case)
+
 # Tech Stack
 
 * Java
