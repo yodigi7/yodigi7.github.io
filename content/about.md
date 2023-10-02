@@ -4,15 +4,19 @@ title: "About"
 
 # About Me
 
-I am currently a consultant at Perficient in Saint Louis, MO, where I work with the AI National Business Unit serving clients across the United States.
+I am currently a consultant at Perficient in Saint Louis, MO, where I work with the AI National Business Unit, serving clients across the United States.
 
-I have extensive experience in leveraging cloud AI services, such as Google's Dialogflow and Form Parser/Document AI, to develop chatbots and automate document processing. Currently, my focus is on Large Language Models (LLMs), harnessing their power to generate and understand content.
+I have a proven track record of delivering solutions that save time and money while increasing efficiency. For instance, I worked on a project where the client had numerous forms that required manual information extraction. Our goal was to streamline this process and enhance accuracy. We successfully employed Google's Form Parser, augmenting it with custom code to improve data extraction. This not only reduced manual effort but also ensured more precise results.
 
-One exciting application of LLMs is their ability to transform websites into virtual customer service representatives. By ingesting specific websites and enabling the AI to answer questions, we can reduce the workload of human customer service representatives, handling basic queries with up-to-date information and addressing long-tail questions not covered by traditional solutions like Dialogflow.
+In addition to this, I have been involved in creating chatbots for various projects, utilizing tools like Dialogflow. These chatbots serve as virtual assistants, addressing customer queries promptly and efficiently. Whether it's retrieving specific account information, such as balances or premiums, or guiding customers in choosing the right product, these chatbots have significantly improved customer interactions.
 
-My passion lies in tackling challenging problems with no predefined solutions, which is what drew me to programming and AI. I'm deeply committed to what I do, dedicating time and energy to my side projects. These personal initiatives have allowed me to build a diverse skill set, as I've created numerous projects from scratch. Self-learning has been a cornerstone of my knowledge base, and I thrive on acquiring new skills independently.
+Moreover, I've taken a step further in showcasing my skills by building a chatbot that utilizes the information on my resume. This chatbot can answer questions that a recruiter or anyone else might have about me. For example, you can ask it, "What programming languages are you proficient in?" and receive a custom response.
 
-I'm all about the joy of learning and helping others along the way. I genuinely adore the hands-on aspect of coding – it's not just a job; it's my passion. My journey into software development started back in high school when I was self-taught. Looking back, I wished I had a mentor to guide me through those early days. Fortunately, I found some amazing mentors during college and my career who made a world of difference in my growth. Now, I'm eager to pay it forward by supporting newer developers on their own paths to success.
+On the development side, I've completed a full-stack application that functions similarly to Quiplash, a fun and interactive game. This project was one of my first major undertakings, and it provided me with valuable experience in building both the frontend and backend components. It was a journey from inception to completion, helping me gain a comprehensive understanding of full-stack development.
+
+In terms of certifications, I hold an IBM Watson Assistant certification, demonstrating my expertise in AI-driven conversational experiences. Additionally, I have a Scrum Foundations certificate, highlighting my commitment to agile methodologies and efficient project management.
+
+Looking ahead, my general aspiration is to continue pushing the boundaries of what's possible in AI and software development. I'm dedicated to lifelong learning, and I'm excited about the potential to mentor and support emerging developers on their own journeys to success.
 
 # Tech Stack
 
