@@ -4,33 +4,29 @@ title: "About"
 
 # About Me
 
-I am currently a consultant for Perficient in Saint Louis, MO.
-I am working with the AI National Business Unit that works with customers across the United States.
+I am currently a consultant at Perficient in Saint Louis, MO, where I work with the AI National Business Unit serving clients across the United States.
 
-I have worked on plenty of projects using cloud AI services such as Google's Dialogflow to build chatbots as well as Google's Form Parser/Document AI.
-Currently working a lot with LLMs (large language models) to generate/understand content.
-One common use case for generative models such as LLMs is being able to ingest a specific website for a company and then have it answer question as a customer service representative would do.
-This is a very good solution that can take off the burden of human customer service representatives by having the AI field a lot of the more basic questions with up to date information.
-It also is a good solution for answering the long-tail questions that have yet to be implemented into a solution such as Dialogflow.
+I have extensive experience in leveraging cloud AI services, such as Google's Dialogflow and Form Parser/Document AI, to develop chatbots and automate document processing. Currently, my focus is on Large Language Models (LLMs), harnessing their power to generate and understand content.
 
-My passion is with hard challenges with no predefined solution which is what brought me to programming but even more so AI.
-I love what I do which is why I have plenty of time and energy to continue on my side projects.
-This allows me to build my skillset since I have built many projects from the ground up on my own.
-I have a lot of experience with learning new things on my own as that is how I built most of my knowledge base.
+One exciting application of LLMs is their ability to transform websites into virtual customer service representatives. By ingesting specific websites and enabling the AI to answer questions, we can reduce the workload of human customer service representatives, handling basic queries with up-to-date information and addressing long-tail questions not covered by traditional solutions like Dialogflow.
+
+My passion lies in tackling challenging problems with no predefined solutions, which is what drew me to programming and AI. I'm deeply committed to what I do, dedicating time and energy to my side projects. These personal initiatives have allowed me to build a diverse skill set, as I've created numerous projects from scratch. Self-learning has been a cornerstone of my knowledge base, and I thrive on acquiring new skills independently.
+
+I'm all about the joy of learning and helping others along the way. I genuinely adore the hands-on aspect of coding – it's not just a job; it's my passion. My journey into software development started back in high school when I was self-taught. Looking back, I wished I had a mentor to guide me through those early days. Fortunately, I found some amazing mentors during college and my career who made a world of difference in my growth. Now, I'm eager to pay it forward by supporting newer developers on their own paths to success.
 
 # Tech Stack
 
-* Java
-* Python
-* Javascript
-* Angular/Vue
-* SQL
+- Python
+- Java
+- JavaScript
+- Front-end frameworks: Angular, Vue, Svelte
+- Databases: NoSQL/SQL
 
 # Other Skills
 
-* sklearn/keras
-* AI/ML
-* maven
-* git
-* CI/CD
-* unit-testing
+- LangChain + LLMs
+- Google Cloud Platform
+- Machine learning libraries: scikit-learn/keras
+- Version control with Git
+- CI/CD (Continuous Integration/Continuous Deployment)
+- Unit testing
