@@ -54,7 +54,7 @@ paginate = 5
   # can be overridden in a page's front-matter
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     languageName = "English"
     title = "Anthony Buchholz"
     subtitle = "A simple, retro theme for Hugo"
@@ -69,20 +69,20 @@ paginate = 5
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
 
-    [languages.en.params.logo]
-      logoText = "Anthony Buchholz"
-      logoHomeLink = "/"
+  [languages.en.params.logo]
+    logoText = "Anthony Buchholz"
+    logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About Me"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "technologies"
-        name = "Technologies"
-        url = "/technologies"
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects"
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About Me"
+      url = "/about"
+    [[languages.en.menu.main]]
+      identifier = "technologies"
+      name = "Technologies"
+      url = "/technologies"
