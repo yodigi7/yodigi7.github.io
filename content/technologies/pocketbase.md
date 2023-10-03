@@ -1,6 +1,8 @@
 ---
 title: "PocketBase"
 date: "2023-10-02"
+tags:
+  - backend
 ---
 
 # PocketBase: What Is It?

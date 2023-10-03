@@ -1,6 +1,9 @@
 ---
 title: "Skeleton"
-date: "2023-10-03"
+date: "2023-10-02"
+tags:
+  - svelte
+  - frontend
 ---
 
 When it comes to creating clean and responsive web layouts without the bloat of heavy frameworks, Skeleton UI is the name of the game. It's like your web design sidekick, helping you craft sleek and stylish web pages effortlessly.

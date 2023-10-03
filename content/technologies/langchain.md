@@ -1,6 +1,9 @@
 ---
 title: "Langchain"
 date: "2023-10-02"
+tags:
+  - backend
+  - ai
 ---
 
 # Harnessing the Power of LangChain for NLP: A Software Engineer's Guide
