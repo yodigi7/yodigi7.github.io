@@ -1,6 +1,7 @@
 ---
 title: "Langchain"
 date: "2023-10-02"
+description: "LangChain simplifies NLP development by offering tools for data loading, text splitting, vector storage, memory, and agent creation, allowing developers to build powerful, context-aware, and dynamic language models."
 tags:
   - backend
   - ai

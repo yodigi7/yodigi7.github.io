@@ -1,6 +1,7 @@
 ---
 title: "Daisy UI"
 date: 2023-10-02
+description: "DaisyUI is a library that enhances Tailwind CSS with pre-built components, making UI design faster and more customizable."
 tags:
   - frontend
 ---

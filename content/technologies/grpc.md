@@ -1,6 +1,7 @@
 ---
 title: "gRPC"
 date: "2023-09-30"
+description: "gRPC is a high-performance framework developed by Google for efficient communication in distributed systems, using Protocol Buffers and supporting bidirectional streaming."
 tags:
   - backend
 ---

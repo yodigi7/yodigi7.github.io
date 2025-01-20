@@ -1,6 +1,7 @@
 ---
 title: "Skeleton"
 date: "2023-10-02"
+description: "Skeleton UI is a lightweight, responsive CSS framework that provides a minimalistic structure and grid system, making it easy to create fast, customizable, and mobile-friendly web layouts."
 tags:
   - svelte
   - frontend

@@ -1,6 +1,7 @@
 ---
 title: "PocketBase"
 date: "2023-10-02"
+description: "PocketBase is an open-source backend solution for efficient data management, offering a scalable, secure environment for storing and analyzing data, with easy setup and integration, ideal for prototypes and medium-sized projects."
 tags:
   - backend
 ---
