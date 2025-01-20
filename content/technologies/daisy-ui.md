@@ -1,5 +1,5 @@
 ---
-title: "Daisy Ui"
+title: "Daisy UI"
 date: 2023-10-02
 tags:
   - frontend
