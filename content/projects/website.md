@@ -1,5 +1,6 @@
 ---
 title: "Website"
+description: "I built this static website using Hugo with a custom theme to simplify project showcasing. It auto-deploys via GitHub Actions and is easily extendable with markdown files."
 ---
 
 # This Website

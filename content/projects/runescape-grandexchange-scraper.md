@@ -1,5 +1,6 @@
 ---
 title: "Runescape Grandexchange Scraper"
+description: "This project combines my love for Runescape, AI, and programming to analyze Grand Exchange trends. It features a pyQt GUI, a Runescape API web scraper, and AI algorithms built with sklearn to predict item price trends."
 ---
 
 # Summary

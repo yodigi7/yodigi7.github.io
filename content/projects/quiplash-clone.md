@@ -1,5 +1,6 @@
 ---
 title: "Quiplash Clone"
+description: "Inspired by Quiplash, this project uses a Java Spring backend and Angular/Vue frontend to manage multiplayer games with server-side data handling. Current polling mechanisms could be optimized with WebSockets or HTTP/2 server push for real-time updates."
 ---
 
 This project was inspired by the game Quiplash made by Jackbox Games.

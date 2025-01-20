@@ -1,6 +1,7 @@
 ---
 title: "Personal Chatbot"
 date: "2023-09-27"
+description: "I combined chatbot development with LLM integration to create conversational bots, including one tailored for recruiters. Using SvelteKit, ChromaDB, and Llama2, I built tools for real-time data interaction and resume-based Q&A."
 ---
 
 # Building Chatbot Brilliance

@@ -1,6 +1,7 @@
 ---
 title: "Kattis Project Generator"
 date: "2023-09-30"
+description: "I built a Yeoman generator to simplify Kattis challenge setups, supporting Go, JavaScript, and Python. It creates templates with input/output handling, making problem-solving faster and cleaner."
 ---
 
 I'm just your average software nerd who loves competing on [Kattis.com](https://www.kattis.com/).
